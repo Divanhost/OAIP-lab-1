@@ -1,0 +1,8 @@
+﻿  Lab1 OAIP.cpp
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(29): warning C4305: инициализация: усечение из "double" в "float"
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(37): warning C4305: инициализация: усечение из "double" в "float"
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(46): warning C4305: инициализация: усечение из "double" в "float"
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(63): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(74): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\projects\lab1 oaip\lab1 oaip\lab1 oaip.cpp(85): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Lab1 OAIP.vcxproj -> D:\Projects\Lab1 OAIP\Debug\Lab1 OAIP.exe
